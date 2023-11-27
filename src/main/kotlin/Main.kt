@@ -1,9 +1,12 @@
 fun main(args: Array<String>) {
-    var a = 5
-    var b = 3
     var x: Boolean
-    x = a != b
+    x = 5 > 5 || 1 != 2 // ||
     println(x)
-    x = a == b
-    println(x)
+
+    println(true || false) // OR czyli lub
+    println(false && false) // AND czyli i
+    println(!false) // NOT czyli nie
+    println(true || false && false) // AND  przed OR
+// uwaga ! negacja jest przed AND i przed OR
+
 }
