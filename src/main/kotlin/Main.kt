@@ -1,4 +1,5 @@
 fun main(args: Array<String>) {
+  // Dla ucznia Cudo. Tak to widzę.
     val nrDziennika = 2
     val nrDnia = 4
     val nrMiesiaca = 12
