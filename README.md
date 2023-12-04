@@ -34,6 +34,7 @@ Ustaw wersje JDK na 1.8 openGL . Tak zwana wersja uwolniona. Pisana przez ochotn
 ![Screenshot from 2023-11-19 20-56-45.png](src%2Fimage%2FScreenshot%20from%202023-11-19%2020-56-45.png)
 Dla Gradle również JDK 1.8
 #### 1.3
+
 #### *Wykonaj ćwiczenie*
 ````
 fun main(args: Array<String>)
